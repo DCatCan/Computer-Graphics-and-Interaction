@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/C++/CgLab2/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/C++/CgLab2/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/C++/CgLab2/CMakeFiles/SecondLab.dir
